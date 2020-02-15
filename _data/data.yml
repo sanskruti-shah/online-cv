@@ -53,7 +53,7 @@ education:
           - Bullet point
     - degree: Bachelor of Management Studies: Finance
       university: K.P.B Hinduja College Of Commerce - Mumbai
-      time: 07/2012 - 06/2015
+      time: 2012 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,7 +64,7 @@ education:
           - Bullet point
     - degree: HSC: Commerce
       university: Utkarsha Vidyalaya And Junior College - Mumbai
-      time: 07/2010 - 05/2012
+      time: 2010 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,7 +75,7 @@ education:
           - Bullet point
     - degree: SSC
       university: St. Aloysius High School - Mumbai
-      time: 07/2009 - 05/2010
+      time: 2009 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
