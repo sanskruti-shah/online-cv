@@ -3,187 +3,139 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sanskruti Shah
+    tagline: PGDM AIMA - Marketing Graduate | Equity Advisor
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: sanskruti.shah7@gmail.com
+    linkedin: sanskruti-shah-marketing
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Gujarati
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Music (Sing/Listen)
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Drawing
         link:
 
 career-profile:
-    title: Career Profile
+    title: Career Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly ambitious and qualified Marketing graduate with background in sales and equity advisory roles. 
+      Expertise in market analysis, forecasting and client needs assessments.
+      Motivated to learn, grow and excel in Marketing efforts.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Post Graduate Diploma in Management AIMA - Marketing
+      university: SIES College Of Management Studies - Navi Mumbai
+      time: 08/2018 - Current
+    - degree: Bachelor of Management Studies - Finance
+      university: K.P.B Hinduja College Of Commerce - Mumbai
+      time: 07/2012 - 06/2015
+    - degree: HSC - Commerce
+      university: Utkarsha Vidyalaya And Junior College - Mumbai
+      time: 07/2010 - 05/2012
+    - degree: SSC
+      university: St. Aloysius High School - Mumbai
+      time: 07/2009 - 05/2010
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Executive Sales Associate
+      time: 08/2019 - 08/2019
+      company: Live Project - Top Cashback, Mumbai, Maharashtra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Earned top results through digital campaigning while creating Brand Awareness.
+          - Promoted brand through digital marketing mediums like Social Media, messaging platforms and word of mouth.
+          - Effectively surpassed expected target of 25 transactions to perform a staggering 35 unique transactions.
+          - Received Certificate and Recommendation letter for this outstanding performance.
+    - role: Social Services Worker
+      time: 07/2019 - 07/2019
+      company: Internship At Bhagwan Mahavir Pashu Rakhsha Kendra, Mumbai, Maharashtra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Fostered growth of organization by brand data collection, aggregation, refinement and presentation to businesses.
+          - Created brand awareness of Ahinsadham which included ideas on attracting visitors to their Animal Welfare Center.
+          - Planned and designed material for the corporate sector businesses to explain the benefits of associating with Ahinsadham in their strong mission for Animal Welfare.
+    - role: Executive Sales Manager
+      time: 01/2019 - 02/2019
+      company: Internship At Lodha Group, Mumbai, Maharashtra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Outperformed in the Retail Market completing huge deals with esteemed customers.
+          - Sales generation for real estate portfolio worth 50 billion INR comprising of luxury and aspiration residencies in Thane.
+          - Participated in negotiations and brought 3 deals to a successful closure generating revenue of 3 crore.
+          - Projection and maintenance of luxury real estate branch attitude and delivering positive customer experience to a distinguished client base comprising of influential names in Mumbai.
+          - Regular analysis of sales trends and coming up with sales techniques that target the right market with right tools.
+          - Surpassed expected targets by providing excellent customer buying experience focusing on customer satisfaction primarily.
+    - role: Senior Equity Advisor
+      time: 07/2015 - 07/2017
+      company: Motilal Oswal Securities Ltd., Mumbai, Maharashtra
+      details: |
+        Generated huge revenue through world class sales methodologies. 
+          - Worked as an advisor for Equity Market, Derivative Market, Mutual Funds and other financial products while tracking Client's Portfolios to promote enhancement.
+          - Lead generation of potential candidates via cold sales pitch performed through e-mail adding to brand exposure and loyalty.
+          - 300+ franchise clients interacted with and handled clients on the basis of the portfolio ranging from 50 lacs to 1 crore.
+          - Monthly revenue generation of 5 lac+ depending upon the market statistics.
+          - Mentored team of 5 advisors and sub-broker's clients for business development and also recommended scripts to invest for maximum profits.
+          - Effectively shouldered responsibility for developing a strong professional network and utilizing that network to bring in new business referrals on regular basis.
+          - Learnt extensive benefits of team work. Being confident and optimistic even during rough market phases was the key to drive potential transactions from clients.
+
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Accomplistments &amp; Certifications 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: "Rising Star Award & Highest Reactivations in a Day Award"
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Awarded with the 'Rising Star', ‘Highest Reactivations in a Day' Award at Motilal Oswal by reviving revenue from inactive clients by providing them value added advisory services thereby accelerating my promotion to a Senior Executive role within 2 years."
 
-      - title: Tempo
+      - title: "Graduation - Top 10 Students"
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Applauded for being in the list of top ten students for the Final Year of Graduation."
 
-      - title: Atom
+      - title: "Drawing Examinations - State Level"
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Successfully completed Elementary and Intermediate Drawing Examinations (State Level)."
 
-      - title: Delta
+      - title: NISM-Series-V-A
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Certified NISM-Series-V-A, Mutual Fund Distributions (Enrollment ID: 1500139579)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: NISM-Series-VII
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Certified NISM-Series-VII, Securities Operations and Risk Management (Enrollment ID: 1500165449)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Potential client identification
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Sales
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Relationship building
+        level: 90%
+
+      - name: Excel, MS Office
+        level: 80%
+
+      - name: Mutual funds
+        level: 80%
+
+      - name: Portfolio management
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://linkedin.com/in/mukesh-choudhari-03415b126"><b>Mukesh Choudhari</b></a>
